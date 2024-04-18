@@ -4,9 +4,11 @@
 
 * ...
 Write an API for a bowling game.
+
 You have the freedom to define the architecture of the API and what its endpoints will look
 like.
 Main Requirements
+
 The API should be written using Ruby; the framework definition is your call. In addition, it
 should provide the following actions:
 − Start a new bowling game.
